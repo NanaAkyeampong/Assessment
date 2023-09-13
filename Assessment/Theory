@@ -1,0 +1,17 @@
+Frontend Development Assessment
+Part 1: Theory Questions
+
+1. HTML stands for HyperText Markup Language and it is a markup language which is used by web developers to structure the content of a webpage. HTML is made up of elements that describe various types of content including, paragraphs, headings, links, videos, images and many more. Its role in Web development is to be able to create websites using a fundamental language, from scratch, instead of having to rely on website making tools that do not allow for creativity.
+2. A CSS box model contains a content area, which is where text, images or any other HTML elements are presented. It contains numerous properties such as, borders, padding, margins and the main content. It influences the layout of the elements on a webpage as it is used to build, create and establish the design and the layout of webpages. The web browser presents each element as a sqaure prism.
+3. The difference between Block-level elements and Inline elements, is that Block-level elements start from a new line by default and fill the line space to the left and right, as far as it can go.
+For example:
+<div style="border: 5px solid pink;"> Assessment </div> 
+Another example is <h1> & <nav> 
+Inline elements start from a whole new line and they only cover the width that is in accordance with the size of the tags in the HTML element. 
+For example: 
+<button>
+<a>
+<p>Assessment, <span style="border: 10px solid pink">Assessment</span>.</p>
+<p>Example of inline element</p>
+4. The purpose of CSS media queries is that they let you create contrasting layouts relying on the size of the viewport. Media queries are a crucial part of responsive web design. Media queries can also be used to discover other conditions about the environment that your webpage is running on. For an example, to detect whether or not the user is using a touchscreen device instead of a mouse or if the device has a specific screen resolution.
+5. The importance of semantic HTML elements is that they aid the search engines and alternative devices to establish the importance and the context of webpages. If the webpage is made with semantic elements, thr content is much easier to access and read and provides an improved user experience. Examples of semantic HTML elements are: <table> <article> <header> <nav>
